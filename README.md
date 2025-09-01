@@ -31,6 +31,6 @@ It fetches real-time weather data using the **OpenWeather API** and displays:
 
 ## 📸 Screenshot  
 
-![Weather App Screenshot](./screenshot.png)  
+![Weather App Screenshot](WeatherApp/Screenshot.png)
 
 ---
