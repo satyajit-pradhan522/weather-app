@@ -29,6 +29,11 @@ It fetches real-time weather data using the **OpenWeather API** and displays:
 
 ---
 
+## 🚀 Demo
+[Live Demo](https://satyajit-pradhan522.github.io/weather-app/)
+
+---
+
 ## 📸 Screenshot  
 
 ![Weather App Screenshot](WeatherApp/Screenshot.png)
