@@ -30,7 +30,7 @@ It fetches real-time weather data using the **OpenWeather API** and displays:
 ---
 
 ## 🚀 Demo
-[Live Demo](https://satyajit-pradhan522.github.io/weather-app/index.html/)
+[Live Demo](https://satyajit-pradhan522.github.io/weather-app/WeatherApp/index.html)
 
 ---
 
